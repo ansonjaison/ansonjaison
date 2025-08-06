@@ -46,10 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonjaison&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansonjaison&theme=algolia&column=7" alt="Trophies" /></a>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
