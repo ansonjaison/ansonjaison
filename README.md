@@ -18,7 +18,7 @@
 - 🧑🏽‍💻 I learn by building — love **clean design** and **purposeful implementation**  
 - ⚽ **Co-founder & Content Head** of [Halfway Football](https://halfwayfootball.com/)
 - 🌍 Based in **Muvattupuzha, Kerala, India**
-- 🖥️  See my portfolio at [MyPortfolio](https://anson-jaison.lovable.app/)
+- 🖥️  See my portfolio at [MyPortfolio](https://ansonjaison.netlify.app/)
 - ✉️ Reach me at **[ansonjaison010@gmail.com](mailto:ansonjaison010@gmail.com)**  
 
 ---
