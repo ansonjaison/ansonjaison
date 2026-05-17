@@ -1,60 +1,79 @@
 <div align="center">
-  <h1>Hi 👋, I'm Anson Jaison</h1>
-  <h3>Learning, Building, Evolving | CSE Final Year | Finding My Flow in Tech</h3>
+
+# Anson Jaison
+
+Building thoughtful digital experiences and quietly learning how people, design and technology connect.
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansonjaison&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ansonjaison" target="_blank">
-    <img src="https://img.shields.io/github/followers/ansonjaison?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
-  </a>
-</p>
+---
+
+## About Me
+
+Developer focused on building thoughtful digital products and human-centered experiences.
+
+Most of what I learn comes from building real things — experimenting with ideas, redesigning flows, understanding user behavior and slowly figuring out what makes products genuinely useful.
+
+Right now, I’m mainly exploring:
+- Full-stack web development
+- Product thinking & UX
+- AI-assisted workflows
+- Real-time systems
+- Human-centered software
+
+Recently, I’ve been building [**KnowThem**](https://knowthem.vercel.app/) — a relationship memory workspace focused on helping people remember conversations, follow-ups and meaningful connections better.
+
+I’m also the co-founder & former content lead at **Halfway Football** ⚽
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year Computer Science Engineering student at **Viswajyothi College of Engineering and Technology**  
-- 🧠 Exploring **Web Development, Real-time Systems & AI/ML**  
-- 🧑🏽‍💻 I learn by building — love **clean design** and **purposeful implementation**  
-- ⚽ **Co-founder & Content Head** of [Halfway Football](https://halfwayfootball.com/)
-- 🌍 Based in **Muvattupuzha, Kerala, India**
-- 🖥️  See my portfolio at [MyPortfolio](https://ansonjaison.netlify.app/)
-- ✉️ Reach me at **[ansonjaison010@gmail.com](mailto:ansonjaison010@gmail.com)**  
+## Things I Care About
+
+- Calm and clean interfaces
+- Human-centered products
+- Thoughtful user experience
+- Real-world problem solving
+- Learning deeply instead of chasing trends
 
 ---
 
-### 🛠️ Skills & Tools
+## Tech I Work With
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansonjaison&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonjaison&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonjaison&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+- Improving as a product engineer
+- Building better real-world projects
+- Understanding product psychology & user behavior
+- Designing calmer digital experiences
+- Learning by shipping and iterating
 
 ---
 
-### 🌐 Connect with Me
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anson-jaison/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://x.com/i_ansonjaison" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
+- Portfolio → https://ansonjaison.netlify.app/
+- LinkedIn → https://www.linkedin.com/in/anson-jaison/
+- X/Twitter → https://x.com/i_ansonjaison
+- Email → ansonjaison010@gmail.com
+
+---
+
+<div align="center">
+
+*"Strong products are not just built with code.  
+They are built with understanding."*
+
+</div>
