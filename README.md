@@ -2,7 +2,7 @@
 
 # Anson Jaison
 
-Building thoughtful digital experiences and quietly learning how people, design and technology connect.
+Building thoughtful digital products while learning how systems, design, and human behavior connect.
 
 </div>
 
@@ -10,18 +10,18 @@ Building thoughtful digital experiences and quietly learning how people, design 
 
 ## About Me
 
-Developer focused on building thoughtful digital products and human-centered experiences.
+Computer Science undergraduate focused on building practical, user-centered software through real projects and experimentation.
 
-Most of what I learn comes from building real things — experimenting with ideas, redesigning flows, understanding user behavior and slowly figuring out what makes products genuinely useful.
+Most of what I learn comes from building — exploring ideas, understanding workflows, improving interfaces, and gradually learning how real-world products are designed, structured, and maintained.
 
 Right now, I’m mainly exploring:
 - Full-stack web development
-- Product thinking & UX
-- AI-assisted workflows
+- Product engineering & UX
+- AI-assisted development workflows
 - Real-time systems
-- Human-centered software
+- System design fundamentals
 
-Recently, I’ve been building [**KnowThem**](https://knowthem.vercel.app/) — a relationship memory workspace focused on helping people remember conversations, follow-ups and meaningful connections better.
+Recently, I’ve been building [**KnowThem**](https://knowthem.vercel.app/) — a relationship memory workspace designed to help people manage conversations, follow-ups, and meaningful connections more thoughtfully.
 
 I’m also the co-founder & former content lead at **Halfway Football** ⚽
 
@@ -30,10 +30,10 @@ I’m also the co-founder & former content lead at **Halfway Football** ⚽
 ## Things I Care About
 
 - Calm and clean interfaces
-- Human-centered products
-- Thoughtful user experience
+- Thoughtful product experiences
+- Systems that feel simple and intuitive
 - Real-world problem solving
-- Learning deeply instead of chasing trends
+- Learning deeply through building
 
 ---
 
@@ -42,23 +42,21 @@ I’m also the co-founder & former content lead at **Halfway Football** ⚽
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
 ---
 
 ## Current Focus
 
-- Improving as a product engineer
-- Building better real-world projects
-- Understanding product psychology & user behavior
-- Designing calmer digital experiences
-- Learning by shipping and iterating
+- Improving as a product-oriented engineer
+- Building more real-world projects
+- Understanding product psychology and user behavior
+- Learning backend and system fundamentals more deeply
+- Shipping, iterating, and learning continuously
 
 ---
 
@@ -68,12 +66,3 @@ I’m also the co-founder & former content lead at **Halfway Football** ⚽
 - LinkedIn → https://www.linkedin.com/in/anson-jaison/
 - X/Twitter → https://x.com/i_ansonjaison
 - Email → ansonjaison010@gmail.com
-
----
-
-<div align="center">
-
-*"Strong products are not just built with code.  
-They are built with understanding."*
-
-</div>
